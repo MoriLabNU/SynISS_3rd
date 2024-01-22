@@ -1,0 +1,1 @@
+This is the source code of the 3rd place solution for instrument parts segmentation task in MICCAI 2023 Syn-ISS challenge.
